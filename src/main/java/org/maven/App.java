@@ -24,6 +24,11 @@ public class App
         System.out.println( "Javascript function BUG-122 fixed" );
 
 
+        // BUG - 132 fix changes
+        // Logic is completed
+        System.out.println( "Javascript function BUG-132 fixed" );
+
+
 
     }
 }
