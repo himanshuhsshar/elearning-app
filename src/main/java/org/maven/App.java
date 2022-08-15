@@ -28,6 +28,11 @@ public class App
         // Logic is completed
         System.out.println( "Javascript function BUG-132 fixed" );
 
+        // BUG - 131 fix changes
+        System.out.println( "Javascript function BUG-131 fix changes" );
+        // Logic is in progress 
+
+
 
 
     }
