@@ -13,7 +13,6 @@ public class App
         System.out.println( "Hey, Ankii!" );
         System.out.println( "Hello" );
 
-
         // BUG - 121 fix changes
         System.out.println( "Javascript function BUG-121 fix changes" );
         // Logic is required
