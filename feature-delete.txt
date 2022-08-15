@@ -1,1 +1,1 @@
-common-delete
+feature-delete
